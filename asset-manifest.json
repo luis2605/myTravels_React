@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luis2605/myTravels_React/static/css/main.9a53e51f.css",
+    "main.js": "/luis2605/myTravels_React/static/js/main.81b9d271.js",
+    "static/js/787.39019643.chunk.js": "/luis2605/myTravels_React/static/js/787.39019643.chunk.js",
+    "index.html": "/luis2605/myTravels_React/index.html",
+    "main.9a53e51f.css.map": "/luis2605/myTravels_React/static/css/main.9a53e51f.css.map",
+    "main.81b9d271.js.map": "/luis2605/myTravels_React/static/js/main.81b9d271.js.map",
+    "787.39019643.chunk.js.map": "/luis2605/myTravels_React/static/js/787.39019643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a53e51f.css",
+    "static/js/main.81b9d271.js"
+  ]
+}
