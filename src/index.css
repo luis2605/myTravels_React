@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body { 
+  font-family: 'Inter', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/*Variables*/
+:root{
+  --bg-color:#F55A5A;
+  --ftn-color:#2B283A;
+  --ftn-light-color:#FFFFFF;
+  --ftn-darker-color:#918E9B;
+
+  --ftn-wg-medium:500;
+  --ftn-wg-regular:400;
+  --ftn-wg-bold:700;
+}
+

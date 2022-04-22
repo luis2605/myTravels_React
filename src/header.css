@@ -1,0 +1,15 @@
+.app__header{
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 24px;
+   margin: 1.5em 1em;
+}
+.header__title{
+    color: var(--ftn-light-color);
+    font-size: 1.106rem;
+    font-weight: var(--ftn-wg-medium);
+}
